@@ -1,6 +1,6 @@
 <?php
 /**
- * Aether Recon v14.6 – Deep Surface + Full OSINT Expansion
+ * Aether Recon v0.5 – Deep Surface + Full OSINT Expansion
  * Features:
  *  - Cloud Bucket Sniping (S3 / GCS / Azure) with permutation engine
  *  - Wayback Archive Secret Hunting (CDX + regex)
@@ -16,21 +16,21 @@
  *  - NEW: CORS Misconfiguration Probe
  *  - NEW: Sensitive Endpoint & Path Discovery
  *  - NEW: Expanded Technology Fingerprinting
- *  - v14.0: Temporal Diff Engine (compare with previous scans)
- *  - v14.0: Shadow / Related Domain Discovery
- *  - v14.0: Narrative Intelligence Summary
- *  - v14.0: Certificate Pivot helpers
- *  - v14.0: Expanded User OSINT platforms (20+)
- *  - v14.5: Stronger Temporal Intelligence + auto-diff on history load
- *  - v14.5: Deeper Identity / Pivot enrichment for usernames
- *  - v14.5: Investigation Pack export + improved narrative
- *  - v14.5: Personal knowledge-base polish (notes/tags/history)
- *  - v14.5: Stealth mode + reliability controls
- *  - v14.6: Frontend-paginated endpoints (stealth-safe)
- *  - v14.6: Stealth personas (Chrome / Googlebot / Bingbot)
- *  - v14.6: mDNS-aware WebRTC honeypot capture
- *  - v14.6: Vuln Intel (CIRCL/NVD-style CVE explanations)
- *  - v14.6: PoC Refs (strict GitHub PoC filtering)
+ *  - v0.1: Temporal Diff Engine (compare with previous scans)
+ *  - v0.1: Shadow / Related Domain Discovery
+ *  - v0.2: Narrative Intelligence Summary
+ *  - v0.2: Certificate Pivot helpers
+ *  - v0.2: Expanded User OSINT platforms (20+)
+ *  - v0.2: Stronger Temporal Intelligence + auto-diff on history load
+ *  - v0.3: Deeper Identity / Pivot enrichment for usernames
+ *  - v0.3: Investigation Pack export + improved narrative
+ *  - v0.3: Personal knowledge-base polish (notes/tags/history)
+ *  - v0.3: Stealth mode + reliability controls
+ *  - v0.4: Frontend-paginated endpoints (stealth-safe)
+ *  - v0.4: Stealth personas (Chrome / Googlebot / Bingbot)
+ *  - v0.5: mDNS-aware WebRTC honeypot capture
+ *  - v0.5: Vuln Intel (CIRCL/NVD-style CVE explanations)
+ *  - v0.5: PoC Refs (strict GitHub PoC filtering)
  */
 
 
