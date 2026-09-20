@@ -1,0 +1,40 @@
+[20-Sep-2026 06:25:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "CURLPROXY_SOCKS5" in /home/jisjt/aether/config/config.php:53
+Stack trace:
+#0 /home/jisjt/aether/public/index.php(7): require_once()
+#1 {main}
+  thrown in /home/jisjt/aether/config/config.php on line 53
+[20-Sep-2026 06:25:06 UTC] Fatal: Uncaught Error: Undefined constant "CURLPROXY_SOCKS5" in /home/jisjt/aether/config/config.php:53
+Stack trace:
+#0 /home/jisjt/aether/public/index.php(7): require_once()
+#1 {main}
+  thrown in /home/jisjt/aether/config/config.php:53
+[20-Sep-2026 06:25:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "CURLPROXY_SOCKS5" in /home/jisjt/aether/config/config.php:53
+Stack trace:
+#0 /home/jisjt/aether/public/index.php(7): require_once()
+#1 {main}
+  thrown in /home/jisjt/aether/config/config.php on line 53
+[20-Sep-2026 06:25:06 UTC] Fatal: Uncaught Error: Undefined constant "CURLPROXY_SOCKS5" in /home/jisjt/aether/config/config.php:53
+Stack trace:
+#0 /home/jisjt/aether/public/index.php(7): require_once()
+#1 {main}
+  thrown in /home/jisjt/aether/config/config.php:53
+[20-Sep-2026 06:33:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "CURLPROXY_SOCKS5" in /home/jisjt/aether/config/config.php:53
+Stack trace:
+#0 /home/jisjt/aether/public/index.php(7): require_once()
+#1 {main}
+  thrown in /home/jisjt/aether/config/config.php on line 53
+[20-Sep-2026 06:33:00 UTC] Fatal: Uncaught Error: Undefined constant "CURLPROXY_SOCKS5" in /home/jisjt/aether/config/config.php:53
+Stack trace:
+#0 /home/jisjt/aether/public/index.php(7): require_once()
+#1 {main}
+  thrown in /home/jisjt/aether/config/config.php:53
+[20-Sep-2026 06:33:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "CURLPROXY_SOCKS5" in /home/jisjt/aether/config/config.php:53
+Stack trace:
+#0 /home/jisjt/aether/public/index.php(7): require_once()
+#1 {main}
+  thrown in /home/jisjt/aether/config/config.php on line 53
+[20-Sep-2026 06:33:00 UTC] Fatal: Uncaught Error: Undefined constant "CURLPROXY_SOCKS5" in /home/jisjt/aether/config/config.php:53
+Stack trace:
+#0 /home/jisjt/aether/public/index.php(7): require_once()
+#1 {main}
+  thrown in /home/jisjt/aether/config/config.php:53
